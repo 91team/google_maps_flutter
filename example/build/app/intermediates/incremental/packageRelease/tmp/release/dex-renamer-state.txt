@@ -1,4 +1,0 @@
-#Wed Feb 27 19:36:14 MSK 2019
-base.0=/Users/macbook/Development/Flutter/GitReps/plugins/packages/google_maps_flutter/example/build/app/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
