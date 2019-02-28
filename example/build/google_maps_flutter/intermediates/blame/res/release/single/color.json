@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbook/Development/Flutter/GitReps/plugins/packages/google_maps_flutter/example/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b22ecbf524168c4a511d3e639ef9c2a7/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Development/Flutter/GitReps/plugins/packages/google_maps_flutter/example/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b22ecbf524168c4a511d3e639ef9c2a7/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/macbook/Development/Flutter/GitReps/plugins/packages/google_maps_flutter/example/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/macbook/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b22ecbf524168c4a511d3e639ef9c2a7/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
